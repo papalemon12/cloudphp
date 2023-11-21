@@ -1,3 +1,5 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Wilson Wijaya ";
+echo "51022016 ";
+echo "Sistem Informasi ";
